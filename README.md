@@ -6,7 +6,7 @@
 
   This is a fully responsive Tech-University, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://ecommerce-add-to-card.netlify.app/"><strong>➥ Live Demo</strong></a>
+  <a href="https://new-tech-university.netlify.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
